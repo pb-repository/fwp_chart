@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-PAC BIZ,,Corporate,,,,false,,pb_org,,
+Pac Biz,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/company.png,Corporate,,,,false,Company,pb_org,,
 MANAGEMENT REPRESENTATIVES,,Corporate,,,,false,,pb_mr,pb_org,
 Josephine Amaro,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/general-manager.jpg,Corporate,,,,false,General Manager,pb_gm,pb_mr,
 Cherry Mae Lagrama,https://cdn.jsdelivr.net/gh/pb-repository/org_chart@latest/Images/hr-manager.jpg,Corporate,,,,false,HR Manager,pb_hm,pb_mr,
